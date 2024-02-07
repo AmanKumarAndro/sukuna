@@ -22,9 +22,10 @@ function App() {
                   Welcome  to our website!
                 </h2>
                 <p className="mx-auto mt-4 max-w-xl text-base leading-relaxed text-gray-300">
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-                  nesciunt eos facilis debitis voluptas iure consectetur odit fugit
-                  voluptate recusandae?
+                  <span className='text-red-600 font-bold' >
+                    SPOILER!! 	&nbsp;	&nbsp;
+                  </span>
+                Sukuna takes over Megumi's body by breaking the binding vow with Yuji, forcefully cutting his finger, and inflicting pain on Tsumiki, Megumi's sister, to break Megumi's soul and gain full control.
                 </p>
               </div>
               <form action="#" method="POST" className="mx-auto mt-12 max-w-xl">
