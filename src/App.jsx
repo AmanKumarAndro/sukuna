@@ -46,21 +46,8 @@ function App() {
                 </div>
               </form>
               <div className="mt-8 flex items-center justify-center px-8 sm:px-0">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="24"
-                  height="24"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  className="h-4 w-4 text-gray-600"
-                >
-                  <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
-                  <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
-                </svg>
+                
+                
                 <span className="ml-2 text-sm text-gray-400">
                   Your data is complely secured with us. We don&#x27;t share with anyone.
                 </span>
